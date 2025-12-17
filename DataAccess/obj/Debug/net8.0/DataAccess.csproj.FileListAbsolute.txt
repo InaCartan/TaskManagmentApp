@@ -1,0 +1,17 @@
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\bin\Debug\net8.0\DTO.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\bin\Debug\net8.0\DTO.pdb
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

@@ -1,0 +1,11 @@
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\bin\Debug\net8.0\TaskManagmentApp.deps.json
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\bin\Debug\net8.0\TaskManagmentApp.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\bin\Debug\net8.0\TaskManagmentApp.pdb
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.AssemblyInfoInputs.cache
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.AssemblyInfo.cs
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\refint\TaskManagmentApp.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.pdb
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\ref\TaskManagmentApp.dll
