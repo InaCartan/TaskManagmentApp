@@ -1,4 +1,7 @@
-BismiIllah
+ ** BismiIllah **
+
+____________________________
+-- Architecture Describtion --
 
 This App, with simple functions, is made with the three layer architecture.
 This architecture consist of a Business Logic, DataAccess and DTO (Data Transfer Object)
@@ -6,3 +9,29 @@ This architecture consist of a Business Logic, DataAccess and DTO (Data Transfer
 The database is made with Entity Framework (EF), that is a framework used to .NET applications. EF is used to work with relational data without focusing on the database tables and columns. Migration is used in this App. 
 
 The API is a ASP.NET Core Web API, that communicates with the backend through the layers. 
+____________________________
+-- Setup Instructions --
+
+To setup the app, download Visual Studio 2022. 
+
+After installation navigate to the project DataAccess->Packagaes, and see if the following packages are installed:
+Microsoft.EntityFrameworkCore (8.0.0)
+Microsoft.EntityFrameworkCore.Design (8.0.0)
+Microsoft.EntityFrameworkCore.SqlServer (8.0.0)
+Microsoft.EntityFrameworkCore.Tools (8.0.0)
+
+(if not right click on Packages -> Manage NuGet Packages -> Browse)
+
+On TaskAPI check the same, and look only for: 
+Microsoft.EntityFrameworkCore.Design (8.0.0)
+
+
+____________________________
+-- What's missing --
+
+The frontend to view the functionalities hasn't been added. Though it can be viewed by interacting with the API and using swagger. 
+
+I don't have enough knowledge about JWT and thus I might not be able to implement that. 
+
+I'm not accustomed to react and Django and can't recall if I've been using it before, thus I've gone with c# & .Net.
+

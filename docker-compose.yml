@@ -1,0 +1,48 @@
+version: "3.8"
+
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: taskman_sql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=P@ssw0rd123A    
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-data:/var/opt/mssql
+   
+  api:
+    build:
+      context: .
+      dockerfile: TaskAPI/Dockerfile
+    image: taskapi:latest
+    container_name: taskapi
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=db,1433;Database=TaskManagment;User Id=sa;Password=P@ssw0rd123A;TrustServerCertificate=true
+      - DOTNET_RUNNING_IN_CONTAINER=true
+    ports:
+      - "5000:80"
+    restart: unless-stopped
+
+  # Optional migrator: runs migrations once (Linux)
+  migrator:
+    image: mcr.microsoft.com/dotnet/sdk:8.0
+    depends_on:
+      - db
+    working_dir: /src
+    volumes:
+      - ./:/src:cached
+    entrypoint: [ "bash", "-c" ]
+    command: |
+      set -e
+      export PATH="$PATH:/root/.dotnet/tools"
+      dotnet tool install --global dotnet-ef --version 8.* || true
+      dotnet restore
+      dotnet ef database update --project DataAccess --startup-project TaskAPI
+
+volumes:
+  mssql-data:

@@ -9,3 +9,4 @@ C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\De
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\refint\TaskManagmentApp.dll
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.pdb
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\ref\TaskManagmentApp.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskManagmentApp\obj\Debug\net8.0\TaskManagmentApp.sourcelink.json

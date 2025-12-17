@@ -15,3 +15,4 @@ C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\ne
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
