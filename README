@@ -6,7 +6,9 @@
 This App, with simple functions, is made with the three layer architecture.
 This architecture consist of a Business Logic, DataAccess and DTO (Data Transfer Object)
 
-The database is made with Entity Framework (EF), that is a framework used to .NET applications. EF is used to work with relational data without focusing on the database tables and columns. Migration is used in this App. 
+The database is made with Entity Framework (EF), that is a framework used to .NET applications. 
+EF is used to work with relational data without focusing on the database tables and columns. 
+Migration is used in this App. 
 
 The API is a ASP.NET Core Web API, that communicates with the backend through the layers. 
 ____________________________
@@ -20,7 +22,8 @@ Use docker commands in following order:
 ____________________________
 -- What's missing --
 
-The frontend to view the functionalities hasn't been added. Though it can be viewed by interacting with the API.
+The frontend to view the functionalities hasn't been added. 
+Though it can be viewed by interacting with the API, with fx. postman
 
 I don't have enough knowledge about JWT and thus I might not be able to implement that. 
 
