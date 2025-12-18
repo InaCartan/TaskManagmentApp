@@ -143,4 +143,3 @@ C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskAPI\bin\Debug\net8.
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskAPI\obj\Debug\net8.0\TaskAPI.sourcelink.json
-C:\Users\moham\Datamatiker\BestSecurity\TaskManagmentApp\TaskAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
