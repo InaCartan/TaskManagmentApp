@@ -25,7 +25,3 @@ ____________________________
 The frontend to view the functionalities hasn't been added. 
 Though it can be viewed by interacting with the API, with fx. postman
 
-I don't have enough knowledge about JWT and thus I might not be able to implement that. 
-
-I'm not accustomed to react and Django and can't recall if I've been using it before, thus I've gone with c# & .Net.
-
