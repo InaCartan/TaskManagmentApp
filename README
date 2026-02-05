@@ -23,5 +23,5 @@ ____________________________
 -- What's missing --
 
 The frontend to view the functionalities hasn't been added. 
-Though it can be viewed by interacting with the API, with fx. postman
+Though it can be viewed by interacting with the API.
 
